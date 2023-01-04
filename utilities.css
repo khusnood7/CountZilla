@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&family=Poppins:wght@400;600&family=Roboto&display=swap');
+
+
+.calculator{
+    margin-top: 2rem;
+}
+
+body{
+    background-color: rgb(221, 208, 255);
+}
+
+button{
+    padding: 30px;
+    margin: 10px;
+    cursor: pointer;
+    border-radius: 50px;
+    border: none;
+    font-size: 20px;
+}
+
+input{
+    margin-top: 40px;
+    padding: 10px 0px;
+    width: 399px;
+    font-size: 2rem;
+    background-color: black;
+    color: #fff;
+    font-family: 'Noto Serif', serif;
+    border-radius: 50px;
+    text-align: center;
+    pointer-events: none;
+
+}
+
+input:focus{
+    outline: none;
+}

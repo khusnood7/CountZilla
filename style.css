@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif&family=Poppins:wght@400;600&family=Roboto&display=swap');
+
+.clear{
+    width: 18vw;
+    background-color: red;
+    color: aliceblue;
+    font-weight: 700;
+    margin-top: 2rem;
+}
+
+.clear:hover{
+    scale: 1.1;
+    transition: .2s;
+}
+
+
+
