@@ -3,13 +3,13 @@
 .clear{
     width: 18vw;
     background-color: red;
-    color: aliceblue;
-    font-weight: 700;
-    margin-top: 2rem;
+    color: blue;
+    font-weight: 800;
+    margin-top: 3rem;
 }
 
 .clear:hover{
-    scale: 1.1;
+    scale: 1.6;
     transition: .2s;
 }
 
